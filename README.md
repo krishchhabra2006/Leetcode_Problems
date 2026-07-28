@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0078-subsets/) | Medium |
 | [0191-number-of-1-bits](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0231-power-of-two/) | Easy |
+| [0338-counting-bits](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0338-counting-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0461-hamming-distance/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Recursion
@@ -70,4 +71,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0191-number-of-1-bits/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
