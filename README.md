@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0029-divide-two-integers/) | Medium |
+| [0050-powx-n](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0050-powx-n/) | Medium |
 | [0204-count-primes](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0231-power-of-two/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0231-power-of-two/) | Easy |
 ## Array
 | Problem Name | Difficulty |
