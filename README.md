@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0401-binary-watch](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0401-binary-watch/) | Easy |
 | [0461-hamming-distance](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0461-hamming-distance/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Recursion
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0078-subsets/) | Medium |
+| [0401-binary-watch](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0401-binary-watch/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
