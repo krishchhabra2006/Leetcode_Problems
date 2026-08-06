@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0050-powx-n/) | Medium |
+| [0067-add-binary](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0067-add-binary/) | Easy |
 | [0204-count-primes](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0231-power-of-two/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0191-number-of-1-bits/) | Easy |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0067-add-binary](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0067-add-binary/) | Easy |
 | [2055-plates-between-candles](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2055-plates-between-candles/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Binary Search
@@ -123,4 +126,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
