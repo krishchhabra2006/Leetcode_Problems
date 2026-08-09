@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0067-add-binary/) | Easy |
 | [2055-plates-between-candles](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2055-plates-between-candles/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Design
@@ -153,4 +155,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
