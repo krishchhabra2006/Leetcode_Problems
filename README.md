@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0204-count-primes/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0739-daily-temperatures](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0877-stone-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0877-stone-game/) | Medium |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0739-daily-temperatures/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -169,5 +171,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
