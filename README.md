@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2055-plates-between-candles](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2055-plates-between-candles/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3238-find-the-number-of-winning-players](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3731-find-missing-elements](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3731-find-missing-elements/) | Easy |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3238-find-the-number-of-winning-players](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3731-find-missing-elements](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3731-find-missing-elements/) | Easy |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
