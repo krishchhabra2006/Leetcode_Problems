@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2055-plates-between-candles](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2055-plates-between-candles/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [2055-plates-between-candles](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2055-plates-between-candles/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3238-find-the-number-of-winning-players](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
