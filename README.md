@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0039-combination-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0137-single-number-ii/) | Medium |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0191-number-of-1-bits](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0191-number-of-1-bits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
