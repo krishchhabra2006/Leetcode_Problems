@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3471-find-the-largest-almost-missing-integer](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3731-find-missing-elements/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
