@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0050-powx-n](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0231-power-of-two/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3238-find-the-number-of-winning-players](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0204-count-primes/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3238-find-the-number-of-winning-players](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting
