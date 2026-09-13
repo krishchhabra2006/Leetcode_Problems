@@ -1,17 +1,18 @@
 class Solution {
     public int hIndex(int[] cit) {
         int n=cit.length;
-        Arrays.sort(cit);
-        int l=0,r=n-1,ans=0;
-        while(l<=r){
-            int mid=l+(r-l)/2;
-            if(cit[mid]>=n-mid){
-                ans=n-mid;
-                r=mid-1; 
-            }
-            else l=mid+1;
+        int []a=new int [n+1];
+        for(int c:cit){
+            if(c>n) a[n]++;
+            else a[c]++;
         }
-        return ans;
+        int count=0;
+        for(int i=n;i>=0;i--){
+            count+=a[i];
+            if(count>=i) return i;    
+            
+        }
+        return 0;
         
         
     }
