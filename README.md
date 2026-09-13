@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0268-missing-number/) | Easy |
+| [0274-h-index](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0274-h-index/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0268-missing-number/) | Easy |
+| [0274-h-index](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0274-h-index/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -249,4 +251,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
