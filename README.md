@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2055-plates-between-candles](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2055-plates-between-candles/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2055-plates-between-candles](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2055-plates-between-candles/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Prefix Sum
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
