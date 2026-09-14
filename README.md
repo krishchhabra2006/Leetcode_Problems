@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0162-find-peak-element](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0162-find-peak-element/) | Medium |
 | [0204-count-primes](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0204-count-primes/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0162-find-peak-element](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0268-missing-number/) | Easy |
 | [0275-h-index-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0275-h-index-ii/) | Medium |
