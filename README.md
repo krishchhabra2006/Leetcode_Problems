@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [0836-rectangle-overlap](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0877-stone-game/) | Medium |
 | [1927-sum-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1927-sum-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -268,4 +269,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0274-h-index/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
