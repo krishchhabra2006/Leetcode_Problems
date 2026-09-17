@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0039-combination-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0039-combination-sum/) | Medium |
+| [0045-jump-game-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0078-subsets/) | Medium |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0055-jump-game/) | Medium |
 | [0338-counting-bits](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0338-counting-bits/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
