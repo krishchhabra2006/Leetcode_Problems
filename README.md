@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3238-find-the-number-of-winning-players](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
