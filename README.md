@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0067-add-binary/) | Easy |
+| [0567-permutation-in-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1927-sum-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1927-sum-game/) | Medium |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0268-missing-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0567-permutation-in-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -307,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0567-permutation-in-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0567-permutation-in-string/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
