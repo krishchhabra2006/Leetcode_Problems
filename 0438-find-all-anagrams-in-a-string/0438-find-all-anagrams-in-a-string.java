@@ -7,12 +7,12 @@ class Solution {
         if (p.length()>s.length()) return ans;
         int[] mpp=new int[26];
         int[] temp=new int[26];
-        for (int i=0;i<p.length();i++) {
+        for (int i=0;i<p.length();i++){
             mpp[p.charAt(i)-'a']++;
             temp[s.charAt(i)-'a']++;
         }
-        if (Arrays.equals(temp,mpp)) ans.add(0);
-        for (int i = p.length();i<s.length(); i++) {
+        if(Arrays.equals(temp,mpp)) ans.add(0);
+        for(int i = p.length();i<s.length();i++){
              temp[s.charAt(i)-'a']++;
              temp[s.charAt(i -p.length())-'a']--;
              if(Arrays.equals(temp,mpp)){
