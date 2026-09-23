@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2055-plates-between-candles](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2055-plates-between-candles/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2055-plates-between-candles](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2055-plates-between-candles/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2055-plates-between-candles](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2055-plates-between-candles/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Enumeration
@@ -217,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -243,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Simulation
