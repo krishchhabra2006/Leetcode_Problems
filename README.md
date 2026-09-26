@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2055-plates-between-candles](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2055-plates-between-candles/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1927-sum-game/) | Medium |
 | [2055-plates-between-candles](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2055-plates-between-candles/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
