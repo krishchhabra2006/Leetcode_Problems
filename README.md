@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0739-daily-temperatures](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0274-h-index/) | Medium |
 | [0455-assign-cookies](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2974-minimum-number-game/) | Easy |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0567-permutation-in-string/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -242,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3238-find-the-number-of-winning-players](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 ## Game Theory
@@ -255,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0567-permutation-in-string/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
