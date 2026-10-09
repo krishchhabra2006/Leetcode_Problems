@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0739-daily-temperatures/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
