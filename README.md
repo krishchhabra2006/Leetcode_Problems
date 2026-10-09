@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0735-asteroid-collision](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0860-lemonade-change](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0860-lemonade-change/) | Easy |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0067-add-binary/) | Easy |
+| [0735-asteroid-collision](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [2974-minimum-number-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0735-asteroid-collision](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
