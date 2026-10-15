@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0162-find-peak-element/) | Medium |
 | [0204-count-primes](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0204-count-primes/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0274-h-index/) | Medium |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2974-minimum-number-game/) | Easy |
 ## Backtracking
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,4 +373,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
