@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2951-find-the-peaks](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2951-find-the-peaks/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2974-minimum-number-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2974-minimum-number-game/) | Easy |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -359,4 +361,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0455-assign-cookies/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
