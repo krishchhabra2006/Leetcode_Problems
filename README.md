@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1901-find-a-peak-element-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2055-plates-between-candles](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2055-plates-between-candles/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2270-number-of-ways-to-split-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2055-plates-between-candles](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2055-plates-between-candles/) | Medium |
+| [2270-number-of-ways-to-split-array](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
