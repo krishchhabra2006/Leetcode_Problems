@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0461-hamming-distance](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0461-hamming-distance/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3471-find-the-largest-almost-missing-integer](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
