@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0039-combination-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0039-combination-sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0041-first-missing-positive](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0268-missing-number](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
