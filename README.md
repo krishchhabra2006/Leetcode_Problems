@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0050-powx-n](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0231-power-of-two/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0010-regular-expression-matching](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0067-add-binary/) | Easy |
 | [0402-remove-k-digits](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0402-remove-k-digits/) | Medium |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0055-jump-game/) | Medium |
 | [0338-counting-bits](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0338-counting-bits/) | Easy |
