@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0461-hamming-distance](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0461-hamming-distance/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0078-subsets/) | Medium |
 | [0401-binary-watch](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0401-binary-watch/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2055-plates-between-candles](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2055-plates-between-candles/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
