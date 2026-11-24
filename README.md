@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1927-sum-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3238-find-the-number-of-winning-players](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3238-find-the-number-of-winning-players/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -221,11 +223,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2951-find-the-peaks/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0204-count-primes/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2747-count-zero-request-servers](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
