@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0067-add-binary/) | Easy |
 | [0735-asteroid-collision](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0735-asteroid-collision/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0946-validate-stack-sequences/) | Medium |
 | [2974-minimum-number-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -348,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
