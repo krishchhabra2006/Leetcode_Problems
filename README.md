@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/1927-sum-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0946-validate-stack-sequences](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/0946-validate-stack-sequences/) | Medium |
 | [2974-minimum-number-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/krishchhabra2006/Leetcode_Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
